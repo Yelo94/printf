@@ -44,6 +44,7 @@ int print_p(va_list p)
 			counter++;
 		}
 	}
+
 	return (counter);
 	}
 }

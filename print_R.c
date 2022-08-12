@@ -29,7 +29,7 @@ break;
 if (!in[j])
 {
 _putchar(str[i]);
-counter++
+counter++;
 }
 }
 return (counter);
